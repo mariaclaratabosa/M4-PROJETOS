@@ -1,5 +1,5 @@
-# FULLSTACK BOOTCAMP - PROJETOS - MÓDULO 3
-Irei postar todos os meus projetos desenvolvidos durante o bootcamp FullStack na Kenzie Academy Brasil, a fim de mostrar meu progresso até aqui. Nesse repositório terão os projetos desenvolvidos no `terceiro módulo` ou `M3`<br />
+# FULLSTACK BOOTCAMP - PROJETOS - MÓDULO 4
+Irei postar todos os meus projetos desenvolvidos durante o bootcamp FullStack na Kenzie Academy Brasil, a fim de mostrar meu progresso até aqui. Nesse repositório terão os projetos desenvolvidos no `quarto módulo` ou `M4`<br />
 [M1](https://github.com/mariaclaratabosa/M1-PROJETOS) | [M2](https://github.com/mariaclaratabosa/M2-PROJETOS) | [M3](https://github.com/mariaclaratabosa/M3-PROJETOS) | [M4](https://github.com/mariaclaratabosa/M4-PROJETOS)
 <hr />
 
