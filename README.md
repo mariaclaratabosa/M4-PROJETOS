@@ -8,5 +8,5 @@ Os números são referentes aos números de cada atividade.<br />
 O `M` significa `Módulo` ou seja, `M4` significa `Módulo 4`.
 <hr />
 
-## Mercado autônomo
+## 1 - Mercado autônomo
 Nesse projeto, desenvolvi uma API REST utilizada para a organização do estoque de um mercado, contando com dois tipos de produtos: comida e limpeza. A aplização possui rotas para criação, listagem, atualização e deleção de produtos.
