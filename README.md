@@ -10,3 +10,6 @@ O `M` significa `Módulo` ou seja, `M4` significa `Módulo 4`.
 
 ## 1 - Mercado autônomo
 Nesse projeto, desenvolvi uma API REST utilizada para a organização do estoque de um mercado, contando com dois tipos de produtos: comida e limpeza. A aplização possui rotas para criação, listagem, atualização e deleção de produtos.
+
+## 2 - Locadora de filmes
+Nesse projeto, desenvolvi uma API REST utilizada para gerenciar uma coleção de filmes disponíveis. A aplicação possui rotas para criação, listagem, atualização e deleção de filmes e foi feita utilizando PostregreSQL.
