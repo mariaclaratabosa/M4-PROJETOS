@@ -13,3 +13,7 @@ Nesse projeto, desenvolvi uma API REST utilizada para a organização do estoque
 
 ## 2 - Locadora de filmes
 Nesse projeto, desenvolvi uma API REST utilizada para gerenciar uma coleção de filmes disponíveis. A aplicação possui rotas para criação, listagem, atualização e deleção de filmes e foi feita utilizando PostregreSQL.
+
+## 3 - KenzieVelopers
+nesse projeto, desenvolvi uma API REST utilizada para gerenciar desenvolvedores e projetos, sendo possível realizar o registro do desenvolvedor, associar informações extrasa a ele e registrar os projetos de cada desenvolvedor, utilizando os conceitos da relação 1:N.
+
