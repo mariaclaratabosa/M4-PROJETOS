@@ -9,11 +9,26 @@ O `M` significa `Módulo` ou seja, `M4` significa `Módulo 4`.
 <hr />
 
 ## 1 - Mercado autônomo
-Nesse projeto, desenvolvi uma API REST utilizada para a organização do estoque de um mercado, contando com dois tipos de produtos: comida e limpeza. A aplização possui rotas para criação, listagem, atualização e deleção de produtos.
+Nesse projeto, desenvolvi uma API REST utilizada para a organização do estoque de um mercado, contando com dois tipos de produtos: comida e limpeza. A aplização possui rotas para criação, listagem, atualização e deleção de produtos. <br/>
+<br/>
+`TypeScript` `Express` `PostegreSQL` `API REST`
 
 ## 2 - Locadora de filmes
-Nesse projeto, desenvolvi uma API REST utilizada para gerenciar uma coleção de filmes disponíveis. A aplicação possui rotas para criação, listagem, atualização e deleção de filmes e foi feita utilizando PostregreSQL.
+Nesse projeto, desenvolvi uma API REST utilizada para gerenciar uma coleção de filmes disponíveis. A aplicação possui rotas para criação, listagem, atualização e deleção de filmes e foi feita utilizando PostregreSQL. <br/>
+<br/>
+`TypeScript` `Express` `PostegreSQL` `API REST`
 
 ## 3 - KenzieVelopers
-nesse projeto, desenvolvi uma API REST utilizada para gerenciar desenvolvedores e projetos, sendo possível realizar o registro do desenvolvedor, associar informações extrasa a ele e registrar os projetos de cada desenvolvedor, utilizando os conceitos da relação 1:N.
+Nesse projeto, desenvolvi uma API REST utilizada para gerenciar desenvolvedores e projetos, sendo possível realizar o registro do desenvolvedor, associar informações extras a a ele e registrar os projetos de cada desenvolvedor, utilizando os conceitos da relação 1:N. <br/>
+<br/>
+`TypeScript` `Express` `PostegreSQL` `API REST`
 
+## 4 - CRUD Admin
+Nesse projeto, desenvolvi um MVP de uma API que faz controle de usuários e cursos em que esses usuários serão matriculados. A API tamém possui controle de acessos, onde alguns recursos podem ser acessados apenas por usuários que fizeram login, e outros por usuários que fizeram login e têm permissões de adminstrador, utilizando os conceitos da relação N:N. <br/>
+<br/>
+`TypeScript` `Express` `PostegreSQL` `API REST` `zod`
+
+## 5 - Locadora de filmes - TypeORM
+Nesse projeto, desenvolvi uma API REST que gerencia uma coleção de filmes, possuindo rota para criação, listagem, atualização e deleção, utilizando TypeORM. <br/>
+<br/>
+`TypeScript` `Express` `PostegreSQL` `API REST` `zod` `TypeORM`
