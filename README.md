@@ -32,3 +32,9 @@ Nesse projeto, desenvolvi um MVP de uma API que faz controle de usuários e curs
 Nesse projeto, desenvolvi uma API REST que gerencia uma coleção de filmes, possuindo rota para criação, listagem, atualização e deleção, utilizando TypeORM. <br/>
 <br/>
 `TypeScript` `Express` `PostegreSQL` `API REST` `zod` `TypeORM`
+
+## 6 - KImóveis
+Nesse projeto, desenvolvi uma API que que simula o gerenciamento de serviços de uma imobiliária. É possível realizar o cadastro de imóveis e usuários interessados na aquisição de propriedades, bem como, é possível realizar o agendamento e consultar horários de visita às propriedades disponíveis no banco de dados da imobiliária.
+Nesse projeto, pude praticar os conceitos de validação, autenticação, permissão de rotas, relacionamentos de entidades (1:1, 1:N e N:N), utilizando typeORM e Query Builder. <br/>
+<br/>
+`TypeScript` `Express` `PostegreSQL` `API REST` `zod` `TypeORM` `JWS` `Bcryptjs`
